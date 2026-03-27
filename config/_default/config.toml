@@ -1,0 +1,18 @@
+# Change baseurl before deploy
+baseurl      = "https://crudwellflag.org.uk"
+languageCode = "en-gb"
+title        = "Crudwell FLAG"
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+
+[pagination]
+    pagerSize = 5
+
+[cookies]
+    enabled      = true
+    showSettings = true
+
+    [cookies.categories]
+        analytics  = false
+        functional = true

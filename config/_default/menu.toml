@@ -1,0 +1,22 @@
+[[main]]
+identifier = "monitoring"
+name = "River Levels"
+weight = 1
+url = "https://water.wmchubb.co.uk"
+[main.params]
+icon = "ripple-up"
+newtab = true
+
+#[[social]]
+#    identifier = "bluesky"
+#    name       = "BlueSky"
+#    url        = "https://bsky.app"
+#    [social.params]
+#        icon = "brand-bluesky"
+
+#[[social]]
+#    identifier = "linkedin"
+#    name       = "LinkedIn"
+#    url        = "https://linkedin.com"
+#    [social.params]
+#        icon = "brand-linkedin"

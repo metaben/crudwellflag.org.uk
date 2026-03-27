@@ -11,7 +11,7 @@ This is the source code for the Crudwell Flood Action Group website, built with 
 
 - (optional) Use [Dev Containers for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) to build inside an isolated reproducible environment.
 - Run `hugo serve`
-- If ok, run `hugo build --minify` then upload `public/` to `/` on the hosting provider.
+- If ok, commit and push changes to main, and a workflow will automatically build and deploy the website.
 
 ### License
 

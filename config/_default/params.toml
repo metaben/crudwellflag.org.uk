@@ -29,7 +29,7 @@ SortBy              = "default"
 
     [article.license]
         enabled = true
-        default = "<a href='https://creativecommons.org/licenses/by-nc-nd/4.0/'>Licensed under CC BY-NC-ND 4.0</a>"
+        default = "<a href='https://creativecommons.org/licenses/by-nc/4.0/'>Licensed under CC BY-NC 4.0</a>"
 
 [widgets]
     homepage = [

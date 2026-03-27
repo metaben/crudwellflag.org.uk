@@ -4,7 +4,7 @@ This is the source code for the Crudwell Flood Action Group website, built with 
 
 ## Setup
 
-1. install [git], [go], and [Hugo]
+1. install [git](https://github.com/git-guides/install-git), [go](https://go.dev/doc/install), and [Hugo](https://gohugo.io/)
 2. clone this repository
 
 ## Usage

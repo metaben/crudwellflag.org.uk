@@ -4,11 +4,10 @@ description: How residents of Crudwell built a small Internet of Things network 
 date: 2026-04-03T00:19:56+01:00
 image: 
 license: 
-draft: true
 build:
     list: always    # Change to "never" to hide the page from the list
 categories:
-    - Data/IoT
+    - IoT
 toc:
 ---
 

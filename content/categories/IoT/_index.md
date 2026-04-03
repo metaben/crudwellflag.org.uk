@@ -1,10 +1,10 @@
 ---
-title: Data/IoT
+title: IoT
 description: Data and Internet of Things
 image:
 
 # Badge style
 style:
-    background: "#c226ad"
+    background: "#daaf77"
     color: "#fff"
 ---

@@ -7,7 +7,7 @@ license:
 build:
     list: always    # Change to "never" to hide the page from the list
 categories:
-    - Data/IoT
+    - IoT
 toc:
 ---
 

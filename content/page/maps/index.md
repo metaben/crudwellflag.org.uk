@@ -10,5 +10,4 @@ menu:
 comments: false
 ---
 
-<i class="fab fa-heart"></i>
-
+Coming soon.

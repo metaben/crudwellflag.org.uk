@@ -17,7 +17,7 @@ This is the source code for the Crudwell Flood Action Group website, built with 
 
 This project is dual-licensed under:
 
-- Creative Commons BY-NC-SA 4.0 - for content and assets (see [LICENSE](LICENSE)).
+- Creative Commons [BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - for content and assets (see [LICENSE](LICENSE)).
 - MIT License - for code (see [LICENSE-CODE](LICENSE-CODE)).
 
 ## Credits

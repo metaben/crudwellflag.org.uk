@@ -14,5 +14,5 @@ hasCJKLanguage = false
     showSettings = true
 
     [cookies.categories]
-        analytics  = false
+        analytics  = true
         functional = true

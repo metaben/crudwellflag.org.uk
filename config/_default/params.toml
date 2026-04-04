@@ -11,7 +11,7 @@ SortBy              = "default"
 
 [footer]
     since      = 2026
-    customText = "Contact <a href='mailto:crudwellflag@gmail.com'>crudwellflag@gmail.com</a>"
+    customText = "Contact us at <a href='mailto:crudwellflag@gmail.com'>crudwellflag@gmail.com</a> ✳️ This website does not use cookies and does not collect personal data."
 
 [dateFormat]
     published   = ":date_full"

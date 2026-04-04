@@ -1,11 +1,11 @@
-[[main]]
-identifier = "monitoring"
-name = "River Levels"
-weight = 1
-url = "https://water.wmchubb.co.uk"
-[main.params]
-icon = "ripple-up"
-newtab = true
+#[[main]]
+#identifier = "monitoring"
+#name = "River Levels"
+#weight = 1
+#url = "https://water.wmchubb.co.uk"
+#[main.params]
+#icon = "ripple-up"
+#newtab = true
 
 #[[social]]
 #    identifier = "bluesky"

@@ -9,11 +9,24 @@ This is the source code for the Crudwell Flood Action Group website, built with 
 
 ## Usage
 
-- (optional) Use [Dev Containers for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) to build inside an isolated reproducible environment.
-- Run `hugo serve`.
-- If ok, commit and push changes to main, and a workflow will automatically build and deploy the website.
+Make all changes on a new branch.
 
-### License
+### Layout
+
+This website uses the [Stack](https://stack.cai.im/) theme, so it's worth reading the [documentation](https://stack.cai.im/) to know what styling and config is built-in.
+
+### Content
+
+Run `hugo new content content/blog/name-of-article-goes-here/index.md` to create an empty blog.
+
+### Build, Test, Deploy
+
+- Run `hugo serve` to test changes locally.
+- (optional) Use [Dev Containers for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) to re-build inside an isolated reproducible environment.
+- If ok, commit and push changes, open a PR, and merge to main.
+- A GitHub Actions workflow will automatically build and deploy the website.
+
+## License
 
 This project is dual-licensed under:
 

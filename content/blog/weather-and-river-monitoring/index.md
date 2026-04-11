@@ -43,16 +43,7 @@ We currently have the laser sensor on a scaffolding pole, and are keeping a clos
 
 ### How can I see the river level?
 
-There are two ways to see the current river levels in Crudwell:
-
-- Use the Ecowitt app:
-  - Install the Ecowitt app for **[Android](https://play.google.com/store/apps/details?id=com.ost.ecowitt&hl=en-US)** or **[Apple](https://apps.apple.com/gb/app/ecowitt/id1576152334)**.
-  - Find Crudwell on the Map - you should see two weather stations.
-  - Click on the weather station near the centre of the village - it's called `GW3000A-FLAG01`.
-  - Click on the three dots icon and add it to your Favourites.
-  - Scroll down to see the live river level in the centre of the village.
-- Or, use the new River Levels website that we are building:
-  - Click on **[River Levels](https://water.wmchubb.co.uk/)**.
+[Read our blog](/blog/how-to-check-river-levels) about the River Levels website and the Ecowitt weather app.
 
 ### Where can I find more information about deploying my own river level sensor?
 

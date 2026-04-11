@@ -11,8 +11,9 @@ Our parish was badly affected by floods in November 2024, and even for a rural a
 - The Met Office weather forecast was accurate.
 - The Environment Agency had sent their alerts.
 - The Parish Council had distributed sandbags well in advance.
-- Homeowners were somewhere on a scale from "very well-prepared" to "not at all prepared".
-- On the day of the storm and in the clean-up afterwards, Crudwell pulled together in so many wonderful ways; including rushing to help neighbours in need, and preventing classrooms from flooding at the Primary School.
+- There was a Flood Warden.
+
+Homeowners were somewhere on a scale from "very well-prepared" to "not at all prepared". On the day of the storm and in the clean-up afterwards, Crudwell pulled together in so many wonderful ways; including rushing to help neighbours in need, and preventing classrooms from flooding at the Primary School.
 
 The sort of questions that came up after the Storm were:
 

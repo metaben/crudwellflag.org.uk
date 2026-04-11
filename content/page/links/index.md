@@ -2,25 +2,29 @@
 title: Links
 links:
   - title: Stronger South Cotswolds
-    description: Connecting community projects in Gloucestershire, Wiltshire, and Oxfordshire.
+    description: Connecting community projects in Gloucestershire, Wiltshire, and Oxfordshire. We attended the first Flood Summit in Cricklade, and are happy to share our knowledge and approach with other villages.
     website: https://www.strongersouthcotswolds.co.uk
-    image: https://images.squarespace-cdn.com/content/v1/68077a2b777a2315d7f23721/6cc768e2-7e99-4b8b-85f8-cc882b7f9a5b/STRONGER+(3).png?format=50w
+    image: ssc-logo.jpg
 
   - title: Cotswold Rivers Trust
-    description: River champions, protecting rivers in our area.
+    description: River champions, protecting rivers in our area. We have started talking to them to understand event, activities, and local groups that we might get involved with.
     website: https://cotswoldsriverstrust.org
-    image: https://cotswoldsriverstrust.org/wp-content/uploads/2024/12/Cotswolds-Rivers-Trust-Logo-no-bg.png
+    image: cotswoldriverstrust-logo.jpg
+
+  - title: FreshWater Watch
+    description: A global citizen science and data project, raising awareness about freshwater ecosystems. Volunteers can monitor and protect the health of watercourses as individuals or in local groups.
+    website: https://www.freshwaterwatch.org/
+    image: fww-logo.jpg
 
   - title: Crudwell Parish Council
-    description: Volunteers who deliver services in our community.
+    description: Volunteers like us who deliver services in our community. We collaborate closely with them because we want the same outcomes.
     website: https://www.crudwell-pc.gov.uk
-    image: https://www.crudwell-pc.gov.uk/content/uploads/2014/07/crudwell-parish-council-logo.png
+    image: crudwell-pc-logo.jpg
 
   - title: FWAG SW
     description: Expert agri-environmentalists.
     website: https://fwagsw.org.uk
-    image: https://fwagsw.org.uk/wp-content/uploads/2025/04/cropped-FWAGBrandingColourVariants_SW_FWAG_UPDATED_LOGO_text_multi_FC-202x104.png
-
+    image: fwag-sw-logo.jpg
 
 menu:
     main: 
@@ -31,4 +35,4 @@ menu:
 comments: false
 ---
 
-Other useful websites and organisations.
+Useful websites and organisations.

@@ -1,7 +1,7 @@
 ---
 title: Updates
 description: News, Updates, and Announcements
-image:
+image: plufow-le-studio-PofR8KIB2is-unsplash.jpg
 
 # Badge style
 style:

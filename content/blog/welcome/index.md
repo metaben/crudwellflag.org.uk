@@ -1,18 +1,32 @@
 ---
 title: Welcome!
-description: This website helps residents of Crudwell, Wiltshire, know whether local watercourses are well monitored and well maintained.
+description: This is the website for the Crudwell Flood Action Group.
 slug: welcome
-date: 2026-03-26
+date: 2026-04-12
 image: crudwell_from_above.jpg
 weight: 1
 build:
     list: always    # Change to "never" to hide the page from the list
 
 ---
-Something that we learned after Storm Bert was that our community seemed to have lost its focus on flood preparedness. People had moved out of the area, and with them, a bit of local knowledge and coordination was gone too.
 
-Now that we've started a Flood Action Group, We've found that the more we achieve, the more we need to communicate and share. We've built a separate site showing local river levels, to help people particularly in rural areas know whether flooding is likely. We're also helping share resources to help more communities start and run a Flood Action Group, like we do.
+## Aims
 
-We think having this website helps us "bake in" knowledge and the momentum around volunteering, so that the flood risk is always as low as we can get it.
+The aim of this website is to:
 
-> Photo of Crudwell from above provided by a resident.
+1. share progress and information from the Crudwell Flood Action Group (Crudwell FLAG).
+2. show how watercourses including the [River Swill Brook](https://en.wikipedia.org/wiki/Swill_Brook) must be maintained, to reduce the risk of flooding.
+3. share resources with other communities.
+
+## Priorities
+
+The FLAG's priorities for 2026 are:
+
+1. Increase parish resilience by creating more Flood Wardens.
+2. Reduce the flood risk by getting more maintenance done.
+3. Reduce the flood risk by pursuing Wiltshire Council to implement small improvements to Highways drainage.
+4. Find a new way to engage with local farmers - because we would like to reduce the flood risk by identifying local opportunities for Natural Flood Management.
+5. Improve monitoring and alerting by (eg) finding a way to buy an online river depth meter, or to implement affordable IoT devices.
+6. Continue to proactively engage with our community and keep the flood risk to homes as low as possible. We might create a new website in order to better show progress and share information.
+
+> Photo of Crudwell by Graham Wasey.

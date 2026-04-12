@@ -1,5 +1,5 @@
 ---
-title: How to start a Flood Action Group
+title: How to start and run a Flood Action Group
 
 menu:
     main: 

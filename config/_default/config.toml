@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl      = "https://crudwellflag.org.uk"
 languageCode = "en-gb"
-title        = "Crudwell Flood Action"
+title        = "Crudwell FLAG"
 
 defaultContentLanguage = "en"
 hasCJKLanguage = false

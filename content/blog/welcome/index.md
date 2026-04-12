@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: This website is to help residents in Crudwell, Wiltshire, know whether local watercourses are well monitored and well maintained.
+description: This website helps residents of Crudwell, Wiltshire, know whether local watercourses are well monitored and well maintained.
 slug: welcome
 date: 2026-03-26
 image: crudwell_from_above.jpg

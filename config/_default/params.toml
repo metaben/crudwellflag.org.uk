@@ -2,7 +2,7 @@
 mainSections = ["blog"]
 
 rssFullContent = true
-favicon        = "img/favicon-droplet-512x512.png"
+favicon        = "img/favicon/android-chrome-192x192.png"
 
 # Accepted values: "default", "lastmod"
 # default = see https://gohugo.io/quick-reference/glossary/#default-sort-order

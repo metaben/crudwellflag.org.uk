@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: This is the website for the Crudwell Flood Action Group.
+description: This website is about lowering the flood risk in Crudwell, including monitoring and maintaining local watercourses. Click to learn more.
 slug: welcome
 date: 2026-04-12
 image: crudwell_from_above.jpg

@@ -1,7 +1,7 @@
 ---
 title: IoT
 description: Data and Internet of Things
-image:
+image: plufow-le-studio-HhyTg0NDWjY-unsplash.jpg
 
 # Badge style
 style:

@@ -8,7 +8,7 @@ math:
 license: 
 comments: false
 categories:
-    - Updates
+    - IoT
 build:
     list: always    # Change to "never" to hide the page from the list
 ---

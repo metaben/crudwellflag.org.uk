@@ -4,7 +4,7 @@ description:
 date: 2026-04-11T13:24:07+01:00
 image:
 categories:
-    - Updates
+    - Maintenance
 build:
     list: always    # Change to "never" to hide the page from the list
 ---

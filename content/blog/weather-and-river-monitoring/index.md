@@ -25,13 +25,13 @@ The bit that measures rainfall is self-empting, the owner doesn't have to check 
 
 ### How can it monitor the river level?
 
-Ecowitt also sells additional sensors, including **[a laser distance sensor](https://shop.ecowitt.com/en-gb/products/lds01?variant=45041611899042)** that would typically be used for measuring snowfall or measuring a water tank. One of Crudwell's residents has successfully tried one out measuring the depth of the river. To do this he:
+Ecowitt also sells additional sensors, including **[a laser rangefinder](https://shop.ecowitt.com/en-gb/products/lds01?variant=45041611899042)** that would typically be used for measuring snowfall or measuring a water tank. One of Crudwell's residents has successfully tried one out measuring the depth of the river. To do this he:
 - bought a new weather station with the optional Internet of Things (IoT) Gateway
 - bought and mounted the battery-powered laser sensor above the river, ensuring line of sight back to the weather station.
 
-The main issue is how to mount the laser pointing straight down at the surface of the water. Some straightforward calibration is also required. The results speak for themselves, because the depth of the river is now displayed in real-time in the weather app alongside wind and rain!
+The main issue is how to mount the laser rangefinder pointing straight down. Some straightforward calibration is required. The results speak for themselves, because the depth of the river is now displayed in real-time in the weather app alongside wind and rain!
 
-![Image 2: the Ecowitt laser distance sensor, pointing down at the surface of the river.](ecowitt-laser-experiment.jpg)
+![Image 2: the Ecowitt laser rangefinder, pointing down at the surface of the river.](ecowitt-laser-experiment.jpg)
 
 This is a huge step forward for our community. A year ago, we didn't know the depth of the river nor the depth of the floods. Now, with a bit of ingenuity and off-the-shelf technology, we have a second weather station and know the depth of our main watercourse at any time of the day or night. We think that this complements the national **[EA Flood Alerts](https://check-for-flooding.service.gov.uk/alerts-and-warnings)** service, by giving our community more accuracy and confidence in the run-up to a possible flood.
 
@@ -47,4 +47,7 @@ We currently have the laser sensor on a scaffolding pole, and are keeping a clos
 
 ### Where can I find more information about deploying my own river level sensor?
 
-**<a href="Crudwell FLAG River level monitoring - Ecowitt solution V1.pdf">Click here</a>** for instructions about what to buy and how to get it working. The approximate cost is £150-300 depending on whether you have the Ecowitt weather station or not.
+- for instructions about what to buy and how to get it working, **<a href="Crudwell FLAG River level monitoring - Ecowitt solution V1.pdf">click here</a>**.
+- for the diagram showing the complete experiment, **<a href="/river-levels/crudwell-sensor-v1-architecture-diagram.png">click here</a>**.
+
+The approximate cost is £150-300 depending on whether you have the Ecowitt weather station or not.

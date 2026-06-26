@@ -21,7 +21,9 @@ Some initial thoughts on how to start and run your own Flood Action Group:
 - what community will be served by the group? what do they want? what do they need?
 - what do you want the group to achieve in the short and long term?
 
-## Knowledge your group needs
+## Knowledge
+
+To build confidence and credibility, you might need to build your knowledge:
 
 - find out how homes, property, businesses, farmland have been affected by floods (talk to your neighbours and then their neighbours?)
 - know the land, know the watercourses
@@ -39,7 +41,7 @@ Some initial thoughts on how to start and run your own Flood Action Group:
 - understand infrastructure and what it does:
   - drains, gulleys, culverts, trash screens, sluices, weirs
   - water pipes, sewage pipes, sewage pumping stations, conduits for other utilities
-  understand roles and responsibilities:
+- understand roles and responsibilities:
   - what is the town or parish council responsible for?
   - what about the local authority? do they have a working group responsible for flood coordination?
   - [Drainage Boards](https://www.ada.org.uk/)

@@ -16,9 +16,9 @@ Some initial thoughts on how to start and run your own Flood Action Group:
 ## Start with Why
 
 - why are you starting a group?
-- what area will it cover, a village, a parish, a part of a town?
-- who do you hope will join your group? why?
 - what community will be served by the group? what do they want? what do they need?
+- what area will it cover?
+- who do you hope will join your group? why?
 - what do you want the group to achieve in the short and long term?
 
 ## Knowledge

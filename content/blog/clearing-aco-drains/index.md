@@ -1,6 +1,6 @@
 ---
 title: "Clearing channel drainage"
-description: 
+description: How to open an ACO Drain in a roadside footway.
 date: 2026-05-11T20:47:56+01:00
 categories:
     - Maintenance

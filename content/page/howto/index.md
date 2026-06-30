@@ -23,14 +23,14 @@ Some initial thoughts on how to start and run your own Flood Action Group:
 
 ## Knowledge
 
-To build confidence and credibility, you might need to build your knowledge:
+To build confidence and credibility, build your knowledge:
 
-- find out how homes, property, businesses, farmland have been affected by floods (talk to your neighbours and then their neighbours?)
-- know the land, know the watercourses
+- find out how homes, property, businesses, farmland have been affected by floods (talk to your neighbours and their neighbours?)
+- know the land, know the watercourses:
   - where does the water come from? where does it go to?
-  - has it always been like this? when did things change?
+  - has it always been like this? when did things change? [check local and national maps](/blog/useful-maps)
   - are there any conservation areas or SSSIs?
-  - what land is at particular risk of flooding? is 
+  - what land is at particular risk of flooding?
 - understand the differences between:
   - rivers, streams, ditches, watercourses
   - groundwater, surface water, flash flooding, field run-off

@@ -1,12 +1,12 @@
 ---
 title: Welcome!
-description: This website is about lowering the flood risk in Crudwell, including monitoring and maintaining local watercourses. Click to learn more.
+description: This website contains information and maps about maintaining watercourses in Crudwell, a rural parish at the westernmost end of the River Thames. We are residents who have self-organised to lower our flood risk. Click to learn more.
 slug: welcome
 date: 2026-04-12
 image: crudwell_from_above.jpg
 weight: 1
 build:
-    list: always    # Change to "never" to hide the page from the list
+    list: always 
 
 ---
 

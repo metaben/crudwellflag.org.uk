@@ -34,7 +34,7 @@ After the first [Stronger South Cotswolds](https://www.strongersouthcotswolds.co
   - [Find your local trust](https://theriverstrust.org/about-us/member-trusts)
   - [Ecological health map](https://theriverstrust.org/ecology-map)
 
-# General purpose maps
+## General purpose maps
 
 - DEFRA
   - [Data services explorer](https://environment.data.gov.uk/explore/9f0fa3fc-a860-4729-adc9-47fe53f658d0)
@@ -57,12 +57,12 @@ After the first [Stronger South Cotswolds](https://www.strongersouthcotswolds.co
 - [Britain from Above](https://www.britainfromabove.org.uk/en/map?country=global&view=map) - historical photos from WW2
 - [UK Met Office maps and charts](https://weather.metoffice.gov.uk/maps-and-charts)
 
-# Local Authority maps
+## Local Authority maps
 
 - [Wiltshire Open Data Hub](https://wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com/)
-- [Cotswold District Council information map](https://experience.arcgis.com/experience/45420cd71bc14bc4bad4b1bbd1a407e4)
+- [South Gloucestershire Flood Risk Management](https://bcc.maps.arcgis.com/apps/mapviewer/index.html?webmap=ada238ed59b04d839dc84eceb57db470)
 
-# Other
+## Other
 
 - [Flood Radar](https://www.floodradar.co.uk) - unofficial aggregator and flood warnings
 - [River Levels](https://riverlevels.uk/) - unofficial aggregator and flood warnings

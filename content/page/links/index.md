@@ -26,6 +26,12 @@ links:
     website: https://fwagsw.org.uk
     image: fwag-sw-logo.jpg
 
+  - title: GOV.UK Flood Action Campaign
+    description: National site for flood preparedness
+    website: https://floodaction.campaign.gov.uk
+    image: govuk-logo.png
+
+
 menu:
     main: 
         weight: 90

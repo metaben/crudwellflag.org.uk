@@ -9,7 +9,7 @@ image:
 
 We've attended all the South Cotswolds Flood Summits, and in October 2026 we are extremely lucky to have hosted Roz Savage MP for a sort of mini-summit here in Crudwell.  Residents and local groups were able to participate in a Q&A with experts from Thames Water, Wessex Water, National Highways, and the Environment Agency.
 
-On the day we shared this presentation about how to be better prepared, based off what we've learned recently.
+On the day, we gave this short presentation about how to be better prepared based off what we've learned recently.
 
 ## Presentation
 
@@ -22,4 +22,3 @@ The links in this embedded presentation are clickable.
 This is a recording of the same presentation.
 
 {{< youtube ITQt1kFfoGY >}}
-

@@ -57,11 +57,12 @@ To build confidence and credibility, build your knowledge:
 
 These sorts of people might be good for your FLAG:
 
-- people who care about the causes of flooding, and are willing to do something about it.
-- poeople who are practical and hands-on, who can safely participate in activities in/around watercourses.
+- people who care about the causes of flooding, and are willing to do something about it
+- people who are practical and hands-on, who can safely participate in activities in/around watercourses
 - people who get out and about, perhaps they walk their dog along the river?
-- nature-lovers, people concerned about wildlife and ecology.
-- somebody willing to organise the group (bonus skills: a good listener, communicator, decision-maker, can work with the system not against it).
+- nature-lovers, concerned about wildlife and ecology
+- farmers, because they are often all of the above
+- somebody willing to organise the group (bonus skills: a good listener, communicator, decision-maker, can work with the system not against it)
 
 ## Watercourse maintenance
 
